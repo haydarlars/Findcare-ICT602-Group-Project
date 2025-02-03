@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "601282990658",
+    "project_id": "findcare-ict602",
+    "storage_bucket": "findcare-ict602.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601282990658:android:a015a3b692428bb10313db",
+        "android_client_info": {
+          "package_name": "com.example.findcare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSC4opg8oivunN4iXuW953aNhNa9N888A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
